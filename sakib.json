@@ -1,1 +1,18 @@
-hi
+{
+  "latest_version": "1.0",
+  "force_update": true,
+  "ids": [
+    {
+      "id": "9b987139bae9e653",
+      "name": "I'm New me",
+      "serial": "SN001",
+      "copyright": "© 2025"
+    },
+    {
+      "id": "your_device_id_2",
+      "name": "User Two",
+      "serial": "SN002",
+      "copyright": "© 2025"
+    }
+  ]
+} 
